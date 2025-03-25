@@ -3,7 +3,7 @@
 
 
 LiquidCrystal_I2C lcd(0x27, 16, 2);
-
+ 
 void setup() {
   
   lcd.init();				// I2C LCD 초기화
