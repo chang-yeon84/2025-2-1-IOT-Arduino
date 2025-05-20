@@ -25,6 +25,8 @@ sudo apt-get update && sudo apt-get install grafana -y
 ```
 sudo systemctl start grafana-server
 ```
+## influxdb import with python
+```
 pip install influxdb
 ```
   - hint: See PEP 668 for the detailed specification.
